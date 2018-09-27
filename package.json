@@ -38,6 +38,7 @@
         "hawk": "^7.0.7",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1",
+        "mime": "^2.3.1",
         "popper.js": "^1.14.3"
     },
     "devDependencies": {
